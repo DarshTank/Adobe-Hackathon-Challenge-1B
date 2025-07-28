@@ -1,3 +1,3 @@
-PyMuPDF==1.23.22
-sentence-transformers
-torch
+PyMuPDF==1.24.1
+sentence-transformers==2.7.0
+torch==2.3.0
